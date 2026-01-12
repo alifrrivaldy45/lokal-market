@@ -1,0 +1,8 @@
+{
+  "name": "Lokal Market - Smart Catalog",
+  "description": "A high-performance e-commerce catalog featuring smart product discovery powered by Gemini AI, based on Google Spreadsheet data structures.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
